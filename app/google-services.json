@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "979656004416",
+    "firebase_url": "https://student-zone-login.firebaseio.com",
+    "project_id": "student-zone-login",
+    "storage_bucket": "student-zone-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979656004416:android:0bbde1ec13fac71b3ee0a5",
+        "android_client_info": {
+          "package_name": "com.km.eparkingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkP1eK4RVccFSsf5VgQhQlF-s2VjkS6t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979656004416:android:d961dcf0407adb993ee0a5",
+        "android_client_info": {
+          "package_name": "com.km.eparkinguser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkP1eK4RVccFSsf5VgQhQlF-s2VjkS6t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
